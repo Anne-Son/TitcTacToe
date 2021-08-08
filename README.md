@@ -1,2 +1,2 @@
 # TitcTacToe
-TicTacToe game build in JavaScript, HTML% and CSS#
+TicTacToe game build in JavaScript, HTML5 and CSS3
