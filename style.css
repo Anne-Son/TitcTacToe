@@ -1,3 +1,6 @@
+html {
+  height: 100%;
+}
 *,
 *::after,
 *::before {
@@ -13,11 +16,12 @@ body {
   margin: 0;
   background-color: #b12431;
   background-repeat: no-repeat;
+  height: 100%;
 }
 .logo {
-  width: 30%;
+  width: 40%;
   height: auto;
-  margin: 2% 35%;
+  margin: 5% 32%;
 }
 
 .board {
@@ -158,8 +162,8 @@ body {
 
 @media only screen and (max-width: 600px) {
   .logo {
-    width: 50%;
+    width: 80%;
     height: auto;
-    margin: 10% 27%;
+    margin: 10% 15%;
   }
 }
