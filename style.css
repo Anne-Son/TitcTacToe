@@ -124,7 +124,7 @@ body {
 .board.circle .cell:not(.x):not(.circle):hover::after {
   width: calc(var(--mark-size) * 0.7);
   height: calc(var(--mark-size) * 0.7);
-  background-color: rgb(195, 58, 58);
+  background-color: #b12431;
 }
 
 .winning-message {
